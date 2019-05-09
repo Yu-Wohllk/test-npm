@@ -1,0 +1,19 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwohllk/test-npm.git"
+  },
+  "author": "Jurgen Wohllk Ibarra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwohllk/test-npm/issues"
+  },
+  "homepage": "https://github.com/jwohllk/test-npm#readme"
+}
